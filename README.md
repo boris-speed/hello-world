@@ -10,4 +10,4 @@ hello world assignment for SDandD
 
 
 
-[^1] My girlfriend got her degree in Civil Engineering at Tennessee Tech.
+[^1]: My girlfriend got her degree in Civil Engineering at Tennessee Tech.
